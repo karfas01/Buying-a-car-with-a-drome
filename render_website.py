@@ -58,11 +58,11 @@ def on_reload():
 def main():
     Path('pages').mkdir(parents=True, exist_ok=True)
     on_reload()
-    
+
     server = Server()
     server.watch('template.html', on_reload)
     server.serve(root='.',  default_filename='pages/index1.html')
-    
+
 
 if __name__ == '__main__':
     main()
