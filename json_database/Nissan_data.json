@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Nissan Note, 2007",
+        "image_url": "https://s2.auto.drom.ru/photo/q9nQfnAog78FXqbsVpgAeHFxxHT_1cGi9_ea133Xjf1SxtsATOHDQkl3eipUKWZFUq7QHKkPZbDRNFBXX93WB6s8we9lpkIFfw.jpg",
+        "price": "820000",
+        "brend": "Nissan",
+        "path_image": "media/Nissan Note, 2007.jpg"
+    },
+    {
+        "title": "Nissan AD, 2018",
+        "image_url": "https://s2.auto.drom.ru/photo/cfu64fgCSGdKGsa8UTrNrzNb2dMdkS75_IbZRYQ_knpHfqse1l2ITPpB9k88JMvc8eJa0yUbajkoUpnpcmRH_SyHlQ8x4dHJTQ.jpg",
+        "price": "1355000",
+        "brend": "Nissan",
+        "path_image": "media/Nissan AD, 2018.jpg"
+    }
+]

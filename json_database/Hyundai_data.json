@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Hyundai Solaris, 2014",
+        "image_url": "https://s1.auto.drom.ru/photo/KyOiEhXn5RpmK7KUdKD6GOHmJ3Cp68Zn6yg0XyU8aRBdDLiMEOpEy_piGcRjxDamXWUZgBWtnPlhfLubyUGjbUAvTCVSsYlpyg.jpg",
+        "price": "839000",
+        "brend": "Hyundai",
+        "path_image": "media/Hyundai Solaris, 2014.jpg"
+    },
+    {
+        "title": "Hyundai Creta, 2020",
+        "image_url": "https://s2.auto.drom.ru/photo/x0YxHo1t-KQf4ACu-qOkNbm36gwkTI9UQiwwmAXKajWCJ-FFqp672sxpixbL8u9-ETAs-hP3JuT01lHIl5My8KJgKJo1AgXxEA.jpg",
+        "price": "1850000",
+        "brend": "Hyundai",
+        "path_image": "media/Hyundai Creta, 2020.jpg"
+    }
+]
