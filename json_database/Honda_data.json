@@ -2,11 +2,8 @@
     {
         "title": "Honda Insight, 2009",
         "image_url": "https://s2.auto.drom.ru/photo/EMTxcT6cMr935hegEwofDNl8Ce5cl34SmzoyTQlCQM4osBB2AIXHGg8Hai2QXh3mseEta7DBQ_7tC8poHSzKqhFm-J6bLVE8Bg.jpg",
-        "price": "1050000"
-    },
-    {
-        "title": "Honda Elysion, 2007",
-        "image_url": "https://s2.auto.drom.ru/photo/sJEPhHSwT3qQQ9wtBr7-ewvl8mWX5YwFyuMj0-ojmINA4IVNsWNxxO-E1gh6s3DajsNj-Nn9hvkRZrIz1EvTCqxrbuTmOwU2aQ.jpg",
-        "price": "1705000"
+        "price": "1050000",
+        "brend": "Honda",
+        "path_image": "media/Honda Insight, 2009.jpg"
     }
 ]

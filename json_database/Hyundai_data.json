@@ -2,16 +2,8 @@
     {
         "title": "Hyundai Creta, 2020",
         "image_url": "https://s2.auto.drom.ru/photo/x0YxHo1t-KQf4ACu-qOkNbm36gwkTI9UQiwwmAXKajWCJ-FFqp672sxpixbL8u9-ETAs-hP3JuT01lHIl5My8KJgKJo1AgXxEA.jpg",
-        "price": "1850000"
-    },
-    {
-        "title": "Hyundai Creta, 2019",
-        "image_url": "https://s2.auto.drom.ru/photo/bx4S8xzURg34n9pkZcWs7ZeZUFR4Yw4Gvr8S09tk7foezZiWvJ8Gar2j--qoKF8lYFXnqHHxfzD2yDZ6z0cjtu92c5Aapw9poA.jpg",
-        "price": "1670000"
-    },
-    {
-        "title": "Hyundai Solaris, 2015",
-        "image_url": "https://s2.auto.drom.ru/photo/6Hj1FzmUoHtUL3NZvzPSCtt7EkqgEOdiJZoHbfQUoz3pPNpYpXUn1BBWCE3bDnovDyWSyCo_lRBhnoHgPdhgbWLculgkALgVFA.jpg",
-        "price": "1120000"
+        "price": "1850000",
+        "brend": "Hyundai",
+        "path_image": "media/Hyundai Creta, 2020.jpg"
     }
 ]

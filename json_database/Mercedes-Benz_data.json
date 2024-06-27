@@ -1,7 +1,37 @@
 [
     {
-        "title": "Mercedes-Benz C-Class, 2016",
-        "image_url": "https://s2.auto.drom.ru/photo/ERtoKcZ0z4hebt5lPe7V7c8kLo7hHcHbXskkQGhKwxwdFm9vchaeEIEuwY-KbuRBZpdtUv9fSVf3TGNg7TQz-hQ47oJtB3b9wA.jpg",
-        "price": "1250000"
+        "title": "Mercedes-Benz E-Class, 2016",
+        "image_url": "https://s2.auto.drom.ru/photo/8ofArgfx1qQmed3SCTHOrKuYzk0OlsrsrPRDxAgDJJ1Z9gnCjyh-ulQhGgTx1OlRNr13sjOj4PUDUPu9I6OxKgWN4Psfs5ekFA.jpg",
+        "price": "3950000",
+        "brend": "Mercedes-Benz",
+        "path_image": "media/Mercedes-Benz E-Class, 2016.jpg"
+    },
+    {
+        "title": "Mercedes-Benz S-Class, 2017",
+        "image_url": "https://s2.auto.drom.ru/photo/Hs1__hE86-F5y0Dc2_8oFKRgKtiikvGOBfeIrKuL-DrzFeAxF1pZtW2b77R-t-yEMYJ9JPCQSY4I653yAgCmpejGFL23I0j5_A.jpg",
+        "price": "7800000",
+        "brend": "Mercedes-Benz",
+        "path_image": "media/Mercedes-Benz S-Class, 2017.jpg"
+    },
+    {
+        "title": "Mercedes-Benz S-Class, 2017",
+        "image_url": "https://s2.auto.drom.ru/photo/tvsgf92Bdo1hrYfx_8pVIHKG3WJJw3SgFcUxKSZ0PEMPYOkmApi1e1Tq4tbq9xEHrKTFP4h4g8LQ2FLAMMQsI89_m3lRc8sVZA.jpg",
+        "price": "5585900",
+        "brend": "Mercedes-Benz",
+        "path_image": "media/Mercedes-Benz S-Class, 2017.jpg"
+    },
+    {
+        "title": "Mercedes-Benz E-Class, 2010",
+        "image_url": "https://s2.auto.drom.ru/photo/jgis_ATXDv3SpcP1_tYDjk858sowUaUvw4iZj60tGrtOWZYATkjEzz9OQ8dObkB8PY1ukg-ed9-9CVVYiki8ZGtHQlWKq3v64g.jpg",
+        "price": "1325000",
+        "brend": "Mercedes-Benz",
+        "path_image": "media/Mercedes-Benz E-Class, 2010.jpg"
+    },
+    {
+        "title": "Mercedes-Benz C-Class, 2015",
+        "image_url": "https://s2.auto.drom.ru/photo/ejPkjWSSRkKTfWMJVzsVZBZ2i93yg60ZDVCKFabYq1aPte_xFEc9iQ87TE4BBBjdh1p-ONJm5jyKdNwfVZ01-nKp6UUBmeNDnQ.jpg",
+        "price": "2700000",
+        "brend": "Mercedes-Benz",
+        "path_image": "media/Mercedes-Benz C-Class, 2015.jpg"
     }
 ]

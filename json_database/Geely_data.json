@@ -1,7 +1,30 @@
 [
     {
         "title": "Geely Tugella, 2024",
+        "image_url": "https://s2.auto.drom.ru/photo/aPEkVP-SoiydM9Z6e9CZ1p07qk56E5zgLw3XaGAIN5ux3pXUl_JOVGtT7E_pnWK9gMqK6f3fEQ2bbe24bVJSl5OboCTPV5U9BA.jpg",
+        "price": "4289990",
+        "brend": "Geely",
+        "path_image": "media/Geely Tugella, 2024.jpg"
+    },
+    {
+        "title": "Geely Monjaro, 2024",
+        "image_url": "https://s2.auto.drom.ru/photo/qjygF9rmN7Kvv51HgVCp6ddyX3Q_hMMXEJI1gbI5dCfdXZSwLyhd6DQg3qZejZpgLA_li2SpkAK31EmfBebeGGP4TqlpeB6pQQ.jpg",
+        "price": "4544990",
+        "brend": "Geely",
+        "path_image": "media/Geely Monjaro, 2024.jpg"
+    },
+    {
+        "title": "Geely Monjaro, 2024",
+        "image_url": "https://s2.auto.drom.ru/photo/avWpr0at98k2QHGvcGk54QB2f5qYrQ4MOLCWcHwXaBZrA8nPQGbP6OLZKEYVHWThfRZCkAaEH2vj4kIUxXbiuvOayy0eKx9zKQ.jpg",
+        "price": "4744990",
+        "brend": "Geely",
+        "path_image": "media/Geely Monjaro, 2024.jpg"
+    },
+    {
+        "title": "Geely Tugella, 2024",
         "image_url": "https://s2.auto.drom.ru/photo/mpWMDbKIZih3P_c-IBRbq7u-g_y96zwsXoW0PXsOT58GwpjqaEZOmEps5kzZ5LC9vP_aiKvO5z9vFRQErmdLXdggboRXNq6BxQ.jpg",
-        "price": "4389990"
+        "price": "4389990",
+        "brend": "Geely",
+        "path_image": "media/Geely Tugella, 2024.jpg"
     }
 ]
