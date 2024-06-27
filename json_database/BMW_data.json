@@ -1,17 +1,16 @@
 [
     {
         "title": "BMW 5-Series, 2020",
-        "image_url": "https://s2.auto.drom.ru/photo/bFkOX7cOIE5nIlCGsL_b-eKB6S0nxsvXi3nU8dsjeGlGLxJ94aHKXRuDwS0SbTQ7JppoE0xCqgG5CIwC_wbCR4nLJl0NOFVzRg.jpg",
-        "price": "6100000"
+        "image_url": "https://s1.auto.drom.ru/photo/bFkOX7cOIE5nIlCGsL_b-eKB6S0nxsvXi3nU8dsjeGlGLxJ94aHKXRuDwS0SbTQ7JppoE0xCqgG5CIwC_wbCR4nLJl0NOFVzRg.jpg",
+        "price": "6100000",
+        "brend": "BMW",
+        "path_image": "media/BMW 5-Series, 2020.jpg"
     },
     {
         "title": "BMW M5, 2021",
-        "image_url": "https://s2.auto.drom.ru/photo/IWiW_dzPlY2L-s1ap6-jmcM3NBpMDV6Mb5FuJ_goIs7-XucHpLXknJVH7WYHeOgR9yR4FxYncMhdwynUCaD50TIFtmKtiRxnLw.jpg",
-        "price": "13490000"
-    },
-    {
-        "title": "BMW 1-Series, 2018",
-        "image_url": "https://s2.auto.drom.ru/photo/Z_QkAazwNaRFF_VaFe-1aMC5mLd796ubNgCLmYrq5mETVZ134PqBuqRHKH4ww8svqe3PMxbgHqzVJH58Of8fEj9HxjUj6dDEZA.jpg",
-        "price": "2159000"
+        "image_url": "https://s1.auto.drom.ru/photo/IWiW_dzPlY2L-s1ap6-jmcM3NBpMDV6Mb5FuJ_goIs7-XucHpLXknJVH7WYHeOgR9yR4FxYncMhdwynUCaD50TIFtmKtiRxnLw.jpg",
+        "price": "13490000",
+        "brend": "BMW",
+        "path_image": "media/BMW M5, 2021.jpg"
     }
 ]

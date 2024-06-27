@@ -17,12 +17,14 @@ payload = {"unsold": 1,
            "ph": 1}
 car_data_by_brand = {}
 
+
 def download_image(image_url, save_brand):
     image_path = f"media/{save_brand}.jpg"
     with open(image_path, "wb") as file:
         image_response = requests.get(image_url)
         file.write(image_response.content)
     return image_path
+
 
 for url in urls:
     response = requests.get(url, params=payload, headers=headers)

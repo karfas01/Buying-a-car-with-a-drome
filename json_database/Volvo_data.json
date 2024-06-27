@@ -1,12 +1,9 @@
 [
     {
         "title": "Volvo V90, 2017",
-        "image_url": "https://s2.auto.drom.ru/photo/puikSs-tEpYS4Y8mSqwSU3RzXCS-POGcQ8BgVARj7vXMgqV126_pCjXZ6jW7fBshCgalz-ycoD5HEcruk-YqUBcXkNEZi_1csA.jpg",
-        "price": "4360000"
-    },
-    {
-        "title": "Volvo V40, 2017",
-        "image_url": "https://s2.auto.drom.ru/photo/yREygsZoMCMrdGTVmFFO7A6DjgsHqrkCBNU7mCIJ9i8d4V02D8C3PZE6hsi33fy9hw5gXoqRtWYKARXCx14954qVpcSHprzAWw.jpg",
-        "price": "2549000"
+        "image_url": "https://s1.auto.drom.ru/photo/puikSs-tEpYS4Y8mSqwSU3RzXCS-POGcQ8BgVARj7vXMgqV126_pCjXZ6jW7fBshCgalz-ycoD5HEcruk-YqUBcXkNEZi_1csA.jpg",
+        "price": "4360000",
+        "brend": "Volvo",
+        "path_image": "media/Volvo V90, 2017.jpg"
     }
 ]
