@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Toyota Roomy, 2018",
+        "image_url": "https://s2.auto.drom.ru/photo/dOmmWxJJP8ANZq6qTbhKmDytwHod2l_lGXgYF2F1QrqCEKrr62d8qUYFgQTiI1S7094QZTxo26amslXN-VsKfBnALmpce0EfRw.jpg",
+        "price": "1230000"
+    },
+    {
+        "title": "Toyota RAV4, 2019",
+        "image_url": "https://s2.auto.drom.ru/photo/y7B_0P4QI8uTt8qw9lSCQGuFkMp52RwYqCa8Iwr5RZL6nZRaDQr1RtXFmreQu5Km6GPyjbEi4KSy6rb-rVpEf_b2wayyAmLIhQ.jpg",
+        "price": "3390000"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado, 2021",
+        "image_url": "https://s2.auto.drom.ru/photo/yYKg2SvAVAOPK154G7rbRgs3_sN6s0W11vxFfN4nvB8CtxAMmV7VE5a2riLPSWmRMmTKfwDm7M7uNDLD-EDhAP4jKwKUnP-y3g.jpg",
+        "price": "6000000"
+    },
+    {
+        "title": "Toyota Yaris, 2003",
+        "image_url": "https://s2.auto.drom.ru/photo/GkSQjxtlBihhf98TLPUKXs-yEcZQnjPaGmRWgtiEjSgA3B436_YMA6DN9pqM-KcDADtWzgLai87oXEtRrp-1hKfahfdnZbRSow.jpg",
+        "price": "310000"
+    }
+]

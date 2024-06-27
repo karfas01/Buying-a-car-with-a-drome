@@ -15,26 +15,30 @@ def get_files_path(folder):
     return files
 
 
-def get_files_content(file_names):
+def get_cars(file_names):
     files_content = []
     for file in file_names:
         with open(file, 'r', encoding='utf8') as my_file:
             files_content.append(json.load(my_file))
-    return files_content
+
+    cars = []
+    for brand in files_content:
+        for car in brand:
+            cars.append(car)
+    return cars
 
 
 def on_reload():
     cars_folder = 'json_database'
-    media_folder = 'media'
-    cars_files = get_files_path(cars_folder)
-    img_path = get_files_path(media_folder)
-    cars = get_files_content(cars_files)
 
     env = Environment(
         loader=FileSystemLoader('.'),
         autoescape=select_autoescape(['html'])
     )
     template = env.get_template('template.html')
+
+    cars_files = get_files_path(cars_folder)
+    cars = get_cars(cars_files)
 
     page_cars_limit = 20
     cars_pages = list(chunked(cars, page_cars_limit))
@@ -45,8 +49,7 @@ def on_reload():
         rendered_page = template.render(
             pages=pages_count,
             page_number=page_number,
-            cars=sorted_cars,
-            images=img_path
+            cars=sorted_cars
         )
         with open(f'pages/index{page_number}.html', 'w', encoding='utf8') as file:
             file.write(rendered_page)
@@ -63,9 +66,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# #list(chunked(books_on_page, row_cars_limit))
-    # for carss in cars:
-    #     for car in carss:
-    #         print(car)
