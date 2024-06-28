@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Mazda CX-5, 2020",
+        "image_url": "https://s2.auto.drom.ru/photo/GHWpZ-Zlq_SfNeBhtCJ9NNfY-w4gxStQCD_GKzh-j6wUzKZdNeKjsFB5wkFV2oAp6J7os8foPIKocu0QtN-_3EBzCTxUvEO4vQ.jpg",
+        "price": "3380000",
+        "brend": "Mazda",
+        "path_image": "media/Mazda CX-5, 2020.jpg",
+        "car_info": "2.5 \u043b (194 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 34 230 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/mazda/cx-5/704216735.html"
+    },
+    {
+        "title": "Mazda CX-5, 2013",
+        "image_url": "https://s2.auto.drom.ru/photo/IrwgVPfEVtXF8DUNmBcbxh41GNFWeanZxTShew5XU10I_IY9Ic3Fr2O7lHMZzU-SeG9FhXC4vyrGsGlRYFR2de2rsQmHlEUBzg.jpg",
+        "price": "1561000",
+        "brend": "Mazda",
+        "path_image": "media/Mazda CX-5, 2013.jpg",
+        "car_info": "2.0 \u043b (150 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, 151 353 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/mazda/cx-5/754649159.html"
+    },
+    {
+        "title": "Mazda CX-7, 2007",
+        "image_url": "https://s2.auto.drom.ru/photo/CtGAxdXAWxDe7FiFOlzVgdS18rx7cMRIrr1e9_IL1qS87vKwKqf-pRSbsTXJeMqNLp5rBIIs_5atiUZgkih4fNNiXN4pMav4Rg.jpg",
+        "price": "820000",
+        "brend": "Mazda",
+        "path_image": "media/Mazda CX-7, 2007.jpg",
+        "car_info": "2.3 \u043b (238 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 203 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/mazda/cx-7/505279703.html"
+    }
+]

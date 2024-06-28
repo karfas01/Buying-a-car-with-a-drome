@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Ford Explorer, 2017",
+        "image_url": "https://s2.auto.drom.ru/photo/aVci71aWAEYq7artlJurO-fqMHS_35170dZ-Bh47wOTCR1vymqhe-j7jRj5NrPD9XDeDcsGCkuZHoK-I6QggrvCwPFWL765K1w.jpg",
+        "price": "2749000",
+        "brend": "Ford",
+        "path_image": "media/Ford Explorer, 2017.jpg",
+        "car_info": "3.5 \u043b (249 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 128 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/ford/explorer/556495871.html"
+    },
+    {
+        "title": "Ford Focus, 2017",
+        "image_url": "https://s2.auto.drom.ru/photo/_j0YirRqMVV3nIYhM_YQfuvWwT3brkH-2fC4uLB6LTHivWv0Xsqw04bMrJV-m8Qj5Vnu4PQ3cm7pFHIVfVDbNjtC0GtMq2m1kQ.jpg",
+        "price": "799000",
+        "brend": "Ford",
+        "path_image": "media/Ford Focus, 2017.jpg",
+        "car_info": "1.6 \u043b (105 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0430, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, 240 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/ford/focus/224408832.html"
+    }
+]

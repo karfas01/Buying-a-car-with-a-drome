@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Mitsubishi Lancer, 2012",
+        "image_url": "https://s2.auto.drom.ru/photo/NPUIoPc_CP4WFTuEkTXga5YlyG1ye6Ato34B8SLCUuN7lz2FYEP-4tPul_xcSZ5g5NlIA1nCJRnmBXMVnmzIRGd7NccEh4FgEQ.jpg",
+        "price": "849000",
+        "brend": "Mitsubishi",
+        "path_image": "media/Mitsubishi Lancer, 2012.jpg",
+        "car_info": "1.6 \u043b (117 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, 191 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/mitsubishi/lancer/223183965.html"
+    },
+    {
+        "title": "Mitsubishi Galant, 2000",
+        "image_url": "https://s2.auto.drom.ru/photo/yIeNfAzNM3iQfNRCG07kly0Qb3LpvzWn4om0NOkhrKcIhGuPa2vooLwEHhDDQTWyesRGJsR-2sOGwbCqNRgOCCNaK1GqXWILeA.jpg",
+        "price": "140000",
+        "brend": "Mitsubishi",
+        "path_image": "media/Mitsubishi Galant, 2000.jpg",
+        "car_info": "2.4 \u043b (150 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, 290 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/mitsubishi/galant/252416013.html"
+    },
+    {
+        "title": "Mitsubishi Lancer, 2007",
+        "image_url": "https://s2.auto.drom.ru/photo/509W0h8s93Cad89zt2zHAFBe5X-4WrCcLv-Fr1Y3A3KksXwM_hWqar9CS9TxH7k2Dz2INgU1ZfyZc-Gz2WMzLYd5be9JSPaJjw.jpg",
+        "price": "700000",
+        "brend": "Mitsubishi",
+        "path_image": "media/Mitsubishi Lancer, 2007.jpg",
+        "car_info": "1.6 \u043b (98 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0430, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, 206 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/mitsubishi/lancer/755802795.html"
+    },
+    {
+        "title": "Mitsubishi Outlander, 2008",
+        "image_url": "https://s2.auto.drom.ru/photo/3_okWU6ggeqSJGD7GiVSeuI72zw5IJadUbfA_Qo5JfcSIXOxxQo_S_YGvWddDymxyZz4IbPHQkNX453cvlncwWJbklaKrctjnQ.jpg",
+        "price": "1070000",
+        "brend": "Mitsubishi",
+        "path_image": "media/Mitsubishi Outlander, 2008.jpg",
+        "car_info": "3.0 \u043b (220 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 272 284 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/mitsubishi/outlander/225452358.html"
+    }
+]

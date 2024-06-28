@@ -1,0 +1,108 @@
+﻿<!doctype html>
+<html lang="ru">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="../styles.css">
+
+    <title>Покупка машины</title>
+  </head>
+  <body>
+  <div class="banner">
+    <div class="panel">
+
+      <div class="location">
+        <img src="..\img\location-pin.svg" alt="locationPin" class="locationPin">
+        <h2>Санкт-Петербург</h2>
+      </div>
+
+      <div class="car">
+        <h2>Автомобили</h2>
+      </div>
+
+      <div class="git">
+        <a href="https://github.com/karfas01/Buying-a-car-with-a-drome" class="lunkGithub">
+          <h2>GitHub разработчиков</h2>
+        </a>
+      </div>
+
+    </div>
+
+    <div class="headers">
+
+      <div class="litleTitle">
+        <h3>Автомобили в Санкт-Петербурге</h3>
+      </div>
+
+      <div class="bigTitle">
+        <h1>Продажа автомобилей в Санкт-Петербурге</h1>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="cards">
+    {% for i in  range(0, 20) %}
+      {% if cars[i][0].brend != cars[i-1][0].brend %}
+        <div class="car_brand">
+          <h2>{{cars[i][0].brend}}</h2>
+        </div>
+      {% endif %}
+
+        <div class="card">
+
+          <div class="card__top">
+            <a href="{{cars[i][0].url_car_ad}}" class="card__image">
+              <img src="..\{{cars[i][0].path_image}}" class="card-img" alt="...">
+            </a>
+          </div>
+
+          <div class="middle_part">
+            <a href="{{cars[i][0].url_car_ad}}" class="card__title">
+              <h3>{{cars[i][0].title}}</h3>
+              <p>{{cars[i][0].car_info}}</p>
+            </a>
+          </div>
+
+          <div class="card__bottom">
+            <div class="card__prices">
+              {{cars[i][0].price}} ₽
+            </div>
+          </div>
+
+        </div>
+    {% endfor %}
+    </div>
+
+    <div class="pagination">
+
+      {% if page_number==1 %}
+        <a href="#" class="left"><<<</a>
+      {% else %}
+        <a href="../pages/index{{page_number-1}}.html" class="left"><<<</a>
+      {% endif %}
+
+      {% for page in range(1, pages+1) %}
+
+        {% if page==page_number %}
+          <a href="../pages/index{{page}}.html" class="active">{{page}}</a>
+        {% else %}
+          <a href="../pages/index{{page}}.html">{{page}}</a>
+        {% endif %}
+
+      {% endfor %}
+
+      {% if page_number==pages %}
+        <a href="#" class="left">>>></a>
+      {% else %}
+        <a href="../pages/index{{page_number+1}}.html" class="left">>>></a>
+      {% endif %}
+
+    </div>
+  </div>
+
+  </body>
+</html>

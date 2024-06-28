@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Daewoo Matiz, 2005",
+        "image_url": "https://s2.auto.drom.ru/photo/YXyxiXp9IJsa7G9EZwXINDtgxuAiFcP5ye8LQYl4ledgtoB_A-M1bwMO0LI8143b9l2QrhRHIWx5KZa3h_cbjq8N1JD2_1hoiQ.jpg",
+        "price": "245000",
+        "brend": "Daewoo",
+        "path_image": "media/Daewoo Matiz, 2005.jpg",
+        "car_info": "0.8 \u043b (51 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0430, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, 120 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/daewoo/matiz/754118144.html"
+    },
+    {
+        "title": "Daewoo Matiz, 2010",
+        "image_url": "https://s2.auto.drom.ru/photo/MMuXwR8AfxLBlj9AbzsOOP_WIG08PR_dOQ4cI7qYJQLWOP9x8oM8oTBUkTZka6gWQD_RdfYV9WJk2ytChmmuYYbuPIQH4gukiA.jpg",
+        "price": "290000",
+        "brend": "Daewoo",
+        "path_image": "media/Daewoo Matiz, 2010.jpg",
+        "car_info": "0.8 \u043b (51 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0430, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, 145 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/daewoo/matiz/787655974.html"
+    }
+]

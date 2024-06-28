@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Chevrolet Tracker, 2015",
+        "image_url": "https://s2.auto.drom.ru/photo/3R2QY56LU2H399EJpgR_IM6iE99NspRKi9XZTKx9_SPgGel4qk6nFyxFjQkNnq5iQ6oz7Upkq8LP28b1yTzyrnjpEC8Kt_f6YQ.jpg",
+        "price": "1190000",
+        "brend": "Chevrolet",
+        "path_image": "media/Chevrolet Tracker, 2015.jpg",
+        "car_info": "1.8 \u043b (140 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 129 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/chevrolet/tracker/674037028.html"
+    },
+    {
+        "title": "Chevrolet Camaro, 2010",
+        "image_url": "https://s2.auto.drom.ru/photo/ihB1bYBQAcUizwtVAlxDNnH7jhuixqeuuG3-vJoPv0f_PVugZxUff779dj187ug0BwcLZ-8oXruJfT8DsRTHYv9X6e485LVgLg.jpg",
+        "price": "2100000",
+        "brend": "Chevrolet",
+        "path_image": "media/Chevrolet Camaro, 2010.jpg",
+        "car_info": "3.6 \u043b (304 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, \u0437\u0430\u0434\u043d\u0438\u0439, 180 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/chevrolet/camaro/269135399.html"
+    }
+]

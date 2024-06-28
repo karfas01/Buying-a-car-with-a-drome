@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Toyota Land Cruiser, 2008",
+        "image_url": "https://s2.auto.drom.ru/photo/lqwLIDDWxN-4QY5GikyF9hXU0ZpdvMn1lFSjBryQtZylNnIH7AXMS4WiALLyheU6D-31W6hlJoeNaF2Hi5u3bZvdWtYgw3GHEQ.jpg",
+        "price": "3099999",
+        "brend": "Toyota",
+        "path_image": "media/Toyota Land Cruiser, 2008.jpg",
+        "car_info": "4.5 \u043b (235 \u043b.\u0441.), \u0434\u0438\u0437\u0435\u043b\u044c, \u0410\u041a\u041f\u041f, 4WD, 220 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/land_cruiser/198370728.html"
+    },
+    {
+        "title": "Toyota Roomy, 2018",
+        "image_url": "https://s2.auto.drom.ru/photo/dOmmWxJJP8ANZq6qTbhKmDytwHod2l_lGXgYF2F1QrqCEKrr62d8qUYFgQTiI1S7094QZTxo26amslXN-VsKfBnALmpce0EfRw.jpg",
+        "price": "1230000",
+        "brend": "Toyota",
+        "path_image": "media/Toyota Roomy, 2018.jpg",
+        "car_info": "1.0 \u043b (69 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0432\u0430\u0440\u0438\u0430\u0442\u043e\u0440, 4WD, 41 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/roomy/886831472.html"
+    },
+    {
+        "title": "Toyota RAV4, 2019",
+        "image_url": "https://s2.auto.drom.ru/photo/y7B_0P4QI8uTt8qw9lSCQGuFkMp52RwYqCa8Iwr5RZL6nZRaDQr1RtXFmreQu5Km6GPyjbEi4KSy6rb-rVpEf_b2wayyAmLIhQ.jpg",
+        "price": "3390000",
+        "brend": "Toyota",
+        "path_image": "media/Toyota RAV4, 2019.jpg",
+        "car_info": "2.5 \u043b (180 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 81 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/rav4/467418688.html"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado, 2021",
+        "image_url": "https://s2.auto.drom.ru/photo/yYKg2SvAVAOPK154G7rbRgs3_sN6s0W11vxFfN4nvB8CtxAMmV7VE5a2riLPSWmRMmTKfwDm7M7uNDLD-EDhAP4jKwKUnP-y3g.jpg",
+        "price": "6000000",
+        "brend": "Toyota",
+        "path_image": "media/Toyota Land Cruiser Prado, 2021.jpg",
+        "car_info": "2.7 \u043b (163 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 53 900 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/land_cruiser_prado/493903616.html"
+    },
+    {
+        "title": "Toyota Land Cruiser, 2008",
+        "image_url": "https://s2.auto.drom.ru/photo/To6soRKkXvIZUv0cWS2Jq1hAO26FvP-cPjXANOh-KnEDbo-hFCeqag0ZMqvbeQAantONeg2oMCrircvlRjgHtp_Z_6qbfjKBvA.jpg",
+        "price": "2650000",
+        "brend": "Toyota",
+        "path_image": "media/Toyota Land Cruiser, 2008.jpg",
+        "car_info": "4.7 \u043b (288 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 197 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/land_cruiser/860718551.html"
+    },
+    {
+        "title": "Toyota Highlander, 2016",
+        "image_url": "https://s2.auto.drom.ru/photo/eD0q-Jqtd09A0fBDzTDgg1kmRvYimPFg0gH1IuEM-JZ7IMkDPe3TY89BrjsfGhVaot0s6cQM_rRk9caeUYOLg2dGCCH3Noavnw.jpg",
+        "price": "3050000",
+        "brend": "Toyota",
+        "path_image": "media/Toyota Highlander, 2016.jpg",
+        "car_info": "3.5 \u043b (249 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 220 225 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/highlander/175767241.html"
+    },
+    {
+        "title": "Toyota Vellfire, 2010",
+        "image_url": "https://s2.auto.drom.ru/photo/nEV22alf4mDynx7t88h7nlvwkK4RCQPS5OvlmipwzkK1bEdyujRrD-FoaQ9mlOvgFvVPwl9ZiY64MKyN-HkkjqDOFvxZbQWqbA.jpg",
+        "price": "2370000",
+        "brend": "Toyota",
+        "path_image": "media/Toyota Vellfire, 2010.jpg",
+        "car_info": "2.4 \u043b (170 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0432\u0430\u0440\u0438\u0430\u0442\u043e\u0440, 4WD, 320 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/vellfire/437383667.html"
+    },
+    {
+        "title": "Toyota RAV4, 2008",
+        "image_url": "https://s2.auto.drom.ru/photo/cDQvnvsgw0hiLGlLrQYR-lPaBeM4PI1xxYK1wHnWiZU7mwCU0evSp1yXYtPv_6ViOCatAGgOmRLWF-C2-PmpKgwFA0nxN_jAag.jpg",
+        "price": "1190000",
+        "brend": "Toyota",
+        "path_image": "media/Toyota RAV4, 2008.jpg",
+        "car_info": "2.0 \u043b (152 \u043b.\u0441.), \u0431\u0435\u043d\u0437\u0438\u043d, \u0410\u041a\u041f\u041f, 4WD, 160 000 \u043a\u043c",
+        "url_car_ad": "https://auto.drom.ru/spb/toyota/rav4/722433564.html"
+    }
+]
